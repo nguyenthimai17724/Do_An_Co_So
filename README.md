@@ -46,13 +46,13 @@ hiệu.
 
 ## 3. Công nghệ sử dụng
 
-Frontend: HTML, CSS, JavaScript, Bootstrap
+• Frontend: HTML, CSS, JavaScript, Bootstrap
 
-Backend: PHP, MySQL
+• Backend: PHP, MySQL
 
-Frameworks/Libraries: Bootstrap, jQuery
+• Frameworks/Libraries: Bootstrap, jQuery
 
-Công cụ hỗ trợ: XAMPP, phpMyAdmin
+• Công cụ hỗ trợ: XAMPP, phpMyAdmin
 
 # 4. Các giai đoạn phát triển
 | **Giai đoạn**                   | **Thời gian dự kiến** | **Nội dung**                                                                 |
