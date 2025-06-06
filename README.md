@@ -1,9 +1,11 @@
 # Do_An_Co_So
 Xây dựng thiết kế web bán quần áo công sở nữ
 # Danh sách thành viên nhóm
-- Lê Vũ Danh
-- Phạm Trung Đức
-- Nguyễn Thị Mai
+| STT | Họ tên        | MSSV     | Vai trò           |
+|-----|---------------|----------|-------------------|
+| 1   | Lê Vũ Danh | 22014522 |        |
+| 2   | Phạm Trung Đức   | 22010290 | |
+| 3   | Nguyễn Thị Mai      | 220110787 |  |
 # Mô tả ngắn gọn về dự án (Xây dựng web bán quần áo công sở)
 ## 1. Cơ sở thực hiện và ý nghĩa đề tài 
 Sự phát triển mạnh mẽ của công nghệ thông tin và thương mại điện tử tạo điều kiện thuận lợi 
@@ -38,34 +40,19 @@ Frameworks/Libraries: Bootstrap, jQuery
 
 Công cụ hỗ trợ: XAMPP, phpMyAdmin
 # 4. Các giai đoạn phát triển
-Giai đoạn | Họ tên | Thời gian dự kiến | Nội dung
-Phân tích & thiết kế hệ 
-thống 
-Tuần 1–2 
-Xác định yêu cầu, thiết kế sơ đồ Use Case, 
-Class, DB 
-Xây dựng giao diện 
-Tuần 3–4 
-Lập trình chức năng 
-Tuần 5–6 
-Trang chủ, đăng ký, giỏ hàng, admin,… 
-Đăng ký, đăng nhập, đặt hàng, thêm sản 
-phẩm,… 
-Kiểm thử & sửa lỗi 
-Tuần 7 
-Kiểm tra toàn bộ chức năng 
-Triển khai demo 
-Tuần 8 
-Chuẩn bị báo cáo, trình bày sản phẩm 
+| **Giai đoạn**                   | **Thời gian dự kiến** | **Nội dung**                                                                 |
+|---------------------------------|------------------------|------------------------------------------------------------------------------|
+| Phân tích & thiết kế hệ thống   | Tuần 1–2               | Xác định yêu cầu, thiết kế sơ đồ Use Case, Class, DB                        |
+| Xây dựng giao diện              | Tuần 3–4               | Trang chủ, đăng ký, giỏ hàng, admin,…                                       |
+| Lập trình chức năng             | Tuần 5–6               | Đăng ký, đăng nhập, đặt hàng, thêm sản phẩm,…                               |
+| Kiểm thử & sửa lỗi              | Tuần 7                 | Kiểm tra toàn bộ chức năng                                                  |
+| Triển khai demo                 | Tuần 8                 | Chuẩn bị báo cáo, trình bày sản phẩm                                        |
+
 ## 5. Kết quả mong đợi 
 • Website vận hành đầy đủ chức năng mua – bán – quản lý. 
 • Giao diện dễ sử dụng, phù hợp với người dùng văn phòng. 
 • Dữ liệu bảo mật và hoạt động ổn định. 
 • Sản phẩm có tính ứng dụng thực tiễn, có thể triển khai tại cửa hàng thực tế. 
 Công nghệ sử dụng 
-| STT | Họ tên        | MSSV     | Vai trò           |
-|-----|---------------|----------|-------------------|
-| 1   | Nguyễn Văn A  | 20123456 | Trưởng nhóm       |
-| 2   | Trần Thị B    | 20123457 | Thiết kế giao diện|
-| 3   | Lê Văn C      | 20123458 | Lập trình backend |
+
 
