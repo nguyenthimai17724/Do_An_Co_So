@@ -28,22 +28,28 @@ hiệu.
 • Theo dõi và xử lý đơn hàng. 
 • Xem thống kê doanh thu. 
 • Hỗ trợ người dùng và cập nhật tin tức khuyến mãi. 
-## 3. Công nghệ sử dụng 
-Thành phần 
-Công nghệ 
-Ngôn ngữ lập trình HTML, CSS, JavaScript, PHP 
-Cơ sở dữ liệu 
-MySQL 
-Mô hình kiến trúc MVC 
-Công cụ hỗ trợ 
-VSCode, XAMPP, Git 
-Thư viện thêm 
-PHPMailer (gửi mail), Chart.js (thống kê), Bootstrap (giao diện) 
-## 4. Các giai đoạn phát triển 
-Giai đoạn 
-Thời gian dự 
-kiến 
-Nội dung 
+## 3. Công nghệ sử dụng
+
+Frontend: HTML, CSS, JavaScript, Bootstrap
+
+Backend: PHP, MySQL
+
+Frameworks/Libraries: Bootstrap, jQuery
+
+Công cụ hỗ trợ: XAMPP, phpMyAdmin
+
+
+
+
+
+
+
+
+
+
+
+
+
 Phân tích & thiết kế hệ 
 thống 
 Tuần 1–2 
