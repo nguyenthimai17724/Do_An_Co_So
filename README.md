@@ -54,7 +54,7 @@ hiệu.
 
 • Công cụ hỗ trợ: XAMPP, phpMyAdmin
 
-# 4. Các giai đoạn phát triển
+## 4. Các giai đoạn phát triển
 | **Giai đoạn**                   | **Thời gian dự kiến** | **Nội dung**                                                                 |
 |---------------------------------|------------------------|------------------------------------------------------------------------------|
 | Phân tích & thiết kế hệ thống   | Tuần 1–2               | Xác định yêu cầu, thiết kế sơ đồ Use Case, Class, DB                        |
