@@ -63,3 +63,9 @@ Chuẩn bị báo cáo, trình bày sản phẩm
 • Dữ liệu bảo mật và hoạt động ổn định. 
 • Sản phẩm có tính ứng dụng thực tiễn, có thể triển khai tại cửa hàng thực tế. 
 Công nghệ sử dụng 
+| STT | Họ tên        | MSSV     | Vai trò           |
+|-----|---------------|----------|-------------------|
+| 1   | Nguyễn Văn A  | 20123456 | Trưởng nhóm       |
+| 2   | Trần Thị B    | 20123457 | Thiết kế giao diện|
+| 3   | Lê Văn C      | 20123458 | Lập trình backend |
+
