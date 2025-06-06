@@ -37,19 +37,8 @@ Backend: PHP, MySQL
 Frameworks/Libraries: Bootstrap, jQuery
 
 Công cụ hỗ trợ: XAMPP, phpMyAdmin
-
-
-
-
-
-
-
-
-
-
-
-
-
+# 4. Các giai đoạn phát triển
+Giai đoạn | Họ tên | Thời gian dự kiến | Nội dung
 Phân tích & thiết kế hệ 
 thống 
 Tuần 1–2 
