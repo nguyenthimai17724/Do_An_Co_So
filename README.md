@@ -11,11 +11,11 @@ Xây dựng thiết kế web bán quần áo công sở nữ
 Sự phát triển mạnh mẽ của công nghệ thông tin và thương mại điện tử tạo điều kiện thuận lợi 
 để các cửa hàng thời trang chuyển đổi sang hình thức kinh doanh trực tuyến. Đề tài “Xây 
 dựng website bán quần áo công sở” ra đời nhằm: 
-• Tạo nền tảng giúp cửa hàng thời trang dễ dàng giới thiệu sản phẩm, quảng bá thương 
+1. Tạo nền tảng giúp cửa hàng thời trang dễ dàng giới thiệu sản phẩm, quảng bá thương 
 hiệu. 
-• Hỗ trợ người dùng mua sắm trực tuyến một cách thuận tiện, nhanh chóng. 
-• Giúp người quản trị quản lý sản phẩm, đơn hàng và khách hàng một cách hiệu quả. 
-• Góp phần số hóa hoạt động kinh doanh truyền thống, thích ứng với xu hướng mới. 
+2. Hỗ trợ người dùng mua sắm trực tuyến một cách thuận tiện, nhanh chóng. 
+3. Giúp người quản trị quản lý sản phẩm, đơn hàng và khách hàng một cách hiệu quả. 
+4. Góp phần số hóa hoạt động kinh doanh truyền thống, thích ứng với xu hướng mới. 
 ## 2. Chức năng chính của hệ thống 
 ### 2.1. Đối với người dùng 
 • Đăng ký, đăng nhập, cập nhật thông tin cá nhân. 
